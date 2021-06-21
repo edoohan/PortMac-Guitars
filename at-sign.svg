@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="29" viewBox="0 0 28 29">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="2" y="12" width="28" height="29" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_32" data-name="Scroll Group 32" transform="translate(-2 -12)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <text id="_" data-name="@" transform="translate(16 34)" fill="#a5a5a5" font-size="30" font-family="DINosaur-Medium, DINosaur" font-weight="500" letter-spacing="0.068em"><tspan x="-15.255" y="0">@</tspan></text>
+  </g>
+</svg>

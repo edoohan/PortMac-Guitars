@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.201" height="45.328" viewBox="0 0 46.201 45.328">
+  <g id="add_to_bag_icon" data-name="add to bag icon" transform="translate(1.709 1.5)">
+    <g id="cart_icon" data-name="cart icon" transform="translate(0 1.5)">
+      <g id="Subtraction_4" data-name="Subtraction 4" transform="translate(7.714)" fill="none">
+        <path d="M20.52,12.315H.051C.017,11.941,0,11.565,0,11.2,0,5.022,4.614,0,10.286,0S20.571,5.022,20.571,11.2c0,.373-.017.749-.051,1.118Z" stroke="none"/>
+        <path d="M 17.37870407104492 9.315004348754883 C 17.06349945068359 7.805923938751221 16.36837959289551 6.425260543823242 15.34604358673096 5.312464237213135 C 13.97604370117188 3.821254014968872 12.17889404296875 3.000004053115845 10.28564357757568 3.000004053115845 C 8.392383575439453 3.000004053115845 6.595223903656006 3.821254014968872 5.225214004516602 5.312474250793457 C 4.202864646911621 6.425270557403564 3.507737159729004 7.805927753448486 3.192527770996094 9.315004348754883 L 17.37870407104492 9.315004348754883 M 20.52038383483887 12.31500434875488 L 20.5194149017334 12.31500434875488 L 0.05084401369094849 12.31500434875488 C 0.01672401279211044 11.94102382659912 4.013671969005372e-06 11.56475448608398 4.013671969005372e-06 11.19564437866211 C 4.013671969005372e-06 5.02234411239624 4.614133834838867 4.081726274307584e-06 10.28564357757568 4.081726274307584e-06 C 15.95715427398682 4.081726274307584e-06 20.57122421264648 5.02234411239624 20.57122421264648 11.19564437866211 C 20.57122421264648 11.5683536529541 20.55413436889648 11.94463443756104 20.52044486999512 12.31400394439697 L 20.52038383483887 12.31500434875488 Z" stroke="none" fill="#cecece"/>
+      </g>
+      <line id="Line_14" data-name="Line 14" x2="36" transform="translate(0 40.578)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_15" data-name="Line 15" x1="4.5" y2="29.5" transform="translate(0 11.078)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_16" data-name="Line 16" x2="5.5" y2="29.5" transform="translate(30.5 11.078)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_17" data-name="Line 17" x2="26" transform="translate(4.5 11.078)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <line id="Line_22" data-name="Line 22" y2="10.609" transform="translate(38)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_23" data-name="Line 23" x2="9.985" transform="translate(33.008 4.992)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

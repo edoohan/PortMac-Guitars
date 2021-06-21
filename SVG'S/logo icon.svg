@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="46" viewBox="0 0 128 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="1" y="12" width="128" height="46" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Scroll_Group_17" data-name="Scroll Group 17" transform="translate(-1 -12)" clip-path="url(#clip-path)" style="isolation: isolate">
+    <g id="logo_icon" data-name="logo icon" transform="translate(1 1)">
+      <text id="PMG" transform="translate(64 53)" fill="#fb5b3e" stroke="#fb5b3e" stroke-width="1" font-size="64" font-family="AcierBATText-Noir, Acier BAT" letter-spacing="0.02em"><tspan x="-63.84" y="0">PMG</tspan></text>
+    </g>
+  </g>
+</svg>
